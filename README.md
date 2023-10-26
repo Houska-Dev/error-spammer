@@ -2,7 +2,7 @@
 
 ## :bangbang: ***CAUTION*** :bangbang:
 
-**This program is intended for educational purposes only and is not guaranteed to work correctly. If you decide to run this program, you do so at your own risk and peril. I am not responsible for anything that may happen to your data or device. Use this program with caution and prudence. *If you want to kill process run  first `terminal-kill.bat` and second `kill-boxes.bat`.*** 
+**This program is intended for educational purposes only and is not guaranteed to work correctly. If you decide to run this program, you do so at your own risk and peril. I am not responsible for anything that may happen to your data or device. Use this program with caution and prudence. *If you want to kill process run  first `launcher-kill.bat` and second `kill-boxes.bat`.*** 
 ## Installation
 
 1. Download `.zip` folder of this project.
